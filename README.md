@@ -1,5 +1,7 @@
 # Analisi Eventi LED — Arduino + Python + DearPyGui
 
+In collaborazione con jaupi Enrico.
+
 Questo progetto permette di **registrare eventi generati da un sistema Arduino** (pressioni di pulsanti, cambi di stato LED, ecc.) e di **analizzarli tramite uno script Python** che produce:
 
 - statistiche sugli eventi
